@@ -1,6 +1,5 @@
 
 
-
 ```python
 # Dependencies
 import pandas as pd
@@ -22936,5 +22935,4 @@ plt.show()
 
 
 ![png](output_16_0.png)
-
 
